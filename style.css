@@ -1,0 +1,202 @@
+h1{
+color: rgb(0, 225, 255);
+height: max-content;
+width: max-content;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+input{
+
+height: 90%;
+border-color: rgb(0, 0, 0);
+border: 3px solid;
+
+
+}
+
+
+
+
+.fd{
+ 
+    height: 90%;
+    border-color: rgb(0, 0, 0);
+    border: 3px solid;
+ 
+    
+    }
+    button{
+background-color:  rgb(2, 122, 213);
+border: transparent;
+border-radius: 30px;
+transition: transform 1s ;
+color: white;
+
+
+    }
+
+
+
+
+
+button:hover{
+    transform: scale(1.2)  ;
+
+}
+
+span{
+    color:  rgb(205, 22, 22);
+
+
+
+}
+
+.gh{
+
+
+color: rgb(210, 74, 11);
+
+}
+
+.tyu{
+
+color: yellow;
+
+
+
+}
+
+
+.i{
+color: green;
+
+
+
+
+}
+
+
+
+
+.kl{
+
+color:blue;
+
+
+}
+
+
+
+.op{
+
+color: rgb(255, 65, 97);
+
+
+}
+
+
+.lo{
+
+color: rgb(152, 22, 152);
+
+
+}
+
+.lp{
+color:  #ed8ff1
+
+
+}
+
+
+
+
+
+
+.so{
+
+color: grey;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
